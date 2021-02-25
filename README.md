@@ -1,0 +1,2 @@
+# LearningCSharp
+Self taught C# 
